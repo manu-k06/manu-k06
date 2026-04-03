@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Houston, we have a developer.
+# 🌌 Lost in space. Found in code.
 
 *Hey, I'm Manu — CS student, space nerd, and guy who builds things that (mostly) work.*
 
@@ -8,14 +8,23 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="220"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 - 🪐 CS undergrad @ FISAT, Kerala (KTU, batch of 2029)
 - 🌌 Space enthusiast — Interstellar lives rent-free in my head
 - 🔭 Currently figuring things out...
 - 📡 Reach me anywhere below
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%">
+
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
