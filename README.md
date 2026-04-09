@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpd3hlZXN0eGkybTljOXlyd2syOWNvZHVwbG5zaDRneDFrYTNkMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sWFYgYFjHGugleQdO7/giphy.gif" width="300" />
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpd3hlZXN0eGkybTljOXlyd2syOWNvZHVwbG5zaDRneDFrYTNkMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sWFYgYFjHGugleQdO7/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpd3hlZXN0eGkybTljOXlyd2syOWNvZHVwbG5zaDRneDFrYTNkMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sWFYgYFjHGugleQdO7/giphy.gif" width="200" />
 
 </div>
 
