@@ -1,53 +1,72 @@
+#  Manu K Rajan
+
+**Computer Science Undergraduate | Builder | Space Enthusiast**
+
+> "Lost in space. Found in code." ☄️
+
 <div align="center">
 
-# 🌌 Lost in space. Found in code.
-
-*Hey, I'm Manu — CS student, space nerd, and guy who builds things that (mostly) work.*
+<img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="380" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+##  About Me
 
-- 🪐 CS undergrad @ FISAT, Kerala (KTU, batch of 2029)
-- 🌌 Space enthusiast — Interstellar lives rent-free in my head
-- 🔭 Currently figuring things out...
-- 📡 Reach me anywhere below
+Hi, I'm **Manu**, a Computer Science student at **FISAT (KTU – Batch of 2029)**.
 
-</td>
-<td valign="top" width="45%">
-
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+* 🧠 Currently exploring **AI, automation, and systems**
+* 🚀 Passionate about **space, physics, and futuristic tech**
+* 🛠 I enjoy building projects that solve real problems
+* 📚 Always learning something new
 
 ---
 
-## 🛸 Socials
+## 🧰 Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manukraaj_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-k-rajan)
+**Languages**
+
+* C
+* Python
+* JavaScript
+
+**Web**
+
+* HTML
+* CSS
+
+**Currently Learning**
+
+* Machine Learning
+* Automation tools
 
 ---
 
-## 💻 Tech Stack
+## 🚧 Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Coming soon…
+
+Projects I’m working on will appear here.
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-*"The cosmos is within us. We are made of star-stuff."*
-*— Carl Sagan*
+*  Instagram: [https://instagram.com/](https://instagram.com/)
+*  LinkedIn: [https://linkedin.com/](https://linkedin.com/)
+*  Portfolio: [https://manu-space-v1.vercel.app/](https://manu-space-v1.vercel.app/)
+*  Email: [manu.k.rajan06@gmail.com](mailto:manu.k.rajan06@gmail.com)
 
-</div>
+---
+
+## 🧠 Current Focus
+
+* Learning Machine Learning fundamentals
+* Building automation tools
+* Strengthening problem‑solving skills
+
+---
+
+⭐ *"The cosmos is within us. We are made of star‑stuff."*
