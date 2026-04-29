@@ -2,7 +2,7 @@
 
 **Computer Science Undergraduate | Builder | Space Enthusiast**
 
-> "Lost in space. Found in code." ☄️
+> "Lost in space. Found in code." 
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ##  About Me
 
-Hi, I'm **Manu**, a Computer Science student at **FISAT (KTU – Batch of 2029)**.
+Hi, I'm **Manu**, a Computer Science student at **FISAT (KTU – Batch of 2025-29)**.
 
 * 🧠 Currently exploring **AI, automation, and systems**
 * 🚀 Passionate about **space, physics, and futuristic tech**
@@ -24,7 +24,7 @@ Hi, I'm **Manu**, a Computer Science student at **FISAT (KTU – Batch of 2029)*
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -39,23 +39,17 @@ Hi, I'm **Manu**, a Computer Science student at **FISAT (KTU – Batch of 2029)*
 
 **Currently Learning**
 
-* Machine Learning
+* React
 * Automation tools
 
 ---
 
-## 🚧 Projects
 
-Coming soon…
-
-Projects I’m working on will appear here.
-
----
 
 ## 🌐 Connect With Me
 
-*  Instagram: [https://instagram.com/](https://instagram.com/)
-*  LinkedIn: [https://linkedin.com/](https://linkedin.com/)
+*  Instagram: [https://instagram.com/](https://instagram.com/manukraaj)
+*  LinkedIn: [https://linkedin.com/](https://linkedin.com/manu-k-rajan/)
 *  Portfolio: [https://manu-space-v1.vercel.app/](https://manu-space-v1.vercel.app/)
 *  Email: [manu.k.rajan06@gmail.com](mailto:manu.k.rajan06@gmail.com)
 
@@ -64,9 +58,8 @@ Projects I’m working on will appear here.
 ## 🧠 Current Focus
 
 * Learning Machine Learning fundamentals
-* Building automation tools
 * Strengthening problem‑solving skills
 
 ---
 
-⭐ *"The cosmos is within us. We are made of star‑stuff."*
+ *"The cosmos is within us. We are made of star‑stuff."*
