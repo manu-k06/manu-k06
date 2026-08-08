@@ -31,6 +31,7 @@ Hi, I'm **Manu**, a Computer Science student at **FISAT (KTU – Batch of 2025-2
 * C
 * Python
 * JavaScript
+* Java
 
 **Web**
 
